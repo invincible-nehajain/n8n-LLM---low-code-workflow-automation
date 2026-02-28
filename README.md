@@ -1,7 +1,3 @@
-Here’s a **recruiter-facing portfolio version** you can showcase on GitHub, your resume, or during interviews — written to highlight impact, automation thinking, and business value:
-
----
-
 # 🚀 AI-Driven LinkedIn Content Automation | n8n + LLM Integration
 
 ## 🔎 Project Summary
